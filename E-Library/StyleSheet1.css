@@ -1,0 +1,32 @@
+﻿body {
+    margin: 0px;  
+    padding: 0px; 
+}
+h1 {  
+    margin: 0px;  
+    padding: 0px;  
+    font-family: arial;  
+    font-size: 140%;  
+    color: #fff;  
+}  
+#outer-container {  
+    width: 990px;  
+    margin: 0 auto;  
+}  
+  #header {  
+    width: 990px;  
+    height: 90px;  
+    background-color: blue;  
+} 
+  #content-container {  
+    width: 730px;  
+    height: 400px;  
+    background-color: green;  
+    margin: 2px 0px 2px 0px;  
+    float: left;  
+}  
+  #top-Nav {  
+    width: 990px;  
+    background-color: black;  
+    margin: 2px 0px 0px 0px;  
+} 
